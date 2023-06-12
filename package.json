@@ -5,7 +5,7 @@
   "homepage": "https://NRie-22.github.io/project-cinemania/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-cinemania/"
+    "build": "parcel build src/*.html --public-url/project-cinemania/"
   },
   "repository": {
     "type": "git",
